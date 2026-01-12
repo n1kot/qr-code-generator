@@ -1,10 +1,10 @@
-🎯 QR Code Generator
+# 🎯 QR Code Generator
 
 <div align="center">
 
-https://img.shields.io/badge/Python-3.7+-blue.svg
-https://img.shields.io/badge/QR-Code%20Generator-orange
-https://img.shields.io/badge/GUI-Tkinter-yellow
+![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-yellow)
 
 </div>
 
